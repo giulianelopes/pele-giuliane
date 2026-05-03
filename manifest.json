@@ -1,10 +1,10 @@
 {
   "name": "Pele Giuliane",
-  "short_name": "Giuliane",
-  "start_url": "index.html",
+  "short_name": "Pele Giuliane",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#f3e8da",
-  "theme_color": "#f3e8da",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
   "icons": [
     {
       "src": "apple-touch-icon.png",
